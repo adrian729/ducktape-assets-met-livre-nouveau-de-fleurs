@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: small-contacting-pair-beside-central-tree
+title: Walking pair with a stick over the shoulder
+description: A woman at the left in a long gown and a man at the right in a hat, carrying a stick over his shoulder, walk side by side towards the right. Dark brown etched ink, heavily grainy at this size, on a transparent background.
+type: illustration
+categories:
+  - humans
+subjects:
+  - lover
+  - woman
+  - man
+  - hat
+  - staff
+colors:
+  - brown
+  - black
+facing: right
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 53-600-261-5
+render:
+  image: {}
+related:
+  - { asset: met-livre-nouveau-de-fleurs/leafy-tree-on-mound-with-contacting-figures, role: variant }
+  - { asset: met-livre-nouveau-de-fleurs/courting-landscape-with-flock-and-town, role: variant }
+usage_notes:
+  - The same pair stands under the tree in leafy-tree-on-mound-with-contacting-figures, which gives it a ground.
+display_width:
+  - 70
+  - 140
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Tiny crop of the frieze, about 181 px tall at native size; the ink is soft-edged and grainy and blurs when enlarged.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"
+  object_identifier: 53.600.261(5)
+  date: "1645"
+  artist: Nicolas Cochin
+  record_url: https://www.metmuseum.org/art/collection/search/425823
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP837396.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 9f4afcf3269955d64878e31d9dc1e52262f4464443d9326bd49ea9db1193b199
+license: null

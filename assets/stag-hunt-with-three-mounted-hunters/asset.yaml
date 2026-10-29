@@ -1,0 +1,64 @@
+# descriptive: find it and understand it
+id: stag-hunt-with-three-mounted-hunters
+title: Stag hunt frieze with three mounted hunters
+description: "A wide etched landscape band of a stag hunt running from right to left. A stag leaps left at the left of centre with a hound at its heels; two mounted hunters gallop after it across open ground and a third on a rearing horse in the right foreground raises a long thin rod; two more hounds race between them. Bushes and trees close each end, a town with towers sits on the horizon and layered clouds fill the sky. Dark brown-black ink with the cream paper kept as an opaque fill inside the ground and figures; the sky and the outside of the band are transparent."
+type: illustration
+categories:
+  - humans
+  - animals
+subjects:
+  - hunter
+  - stag
+  - dog
+  - rider
+  - horse
+  - landscape
+  - tree
+  - cloud
+colors:
+  - black
+  - brown
+  - cream
+facing: left
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 53-600-261-8
+render:
+  image: {}
+related:
+  - { asset: met-livre-nouveau-de-fleurs/foreground-mounted-hunter-with-raised-arm, role: variant }
+  - { asset: met-livre-nouveau-de-fleurs/left-mounted-hunter-on-running-horse, role: variant }
+  - { asset: met-livre-nouveau-de-fleurs/small-middle-mounted-hunter, role: variant }
+  - { asset: met-livre-nouveau-de-fleurs/leaping-antlered-stag-with-contacting-hound, role: variant }
+  - { asset: met-livre-nouveau-de-fleurs/left-running-hound, role: variant }
+  - { asset: met-livre-nouveau-de-fleurs/middle-running-hound, role: variant }
+  - { asset: met-livre-nouveau-de-fleurs/right-low-running-hound, role: variant }
+usage_notes:
+  - Use once as a horizontal header or footer band; it does not repeat.
+  - The three hunters, the stag with its hound and the two other hounds are also cut out as separate pieces, so the hunt can be recomposed at any width.
+display_width:
+  - 800
+  - 1600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: "Cut by the plate edge at the left, where the bushes stop in a straight line."
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with a Row of Flowers Above a Frieze with a Hunting Scene in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"
+  object_identifier: 53.600.261(8)
+  date: "1645"
+  artist: Nicolas Cochin
+  record_url: https://www.metmuseum.org/art/collection/search/425840
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP837393.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 335b935dc37892bed426447ae3c3756b8a1b8a94b36d6e6545ef7c866b2dccae
+license: null
+
+

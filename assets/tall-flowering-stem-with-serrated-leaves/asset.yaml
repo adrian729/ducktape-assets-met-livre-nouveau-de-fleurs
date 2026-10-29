@@ -1,0 +1,49 @@
+# descriptive: find it and understand it
+id: tall-flowering-stem-with-serrated-leaves
+title: Flowering stem with tubular flowers and paired serrated leaves
+description: "A tall upright stem with pairs of broad serrated oval leaves, whorls of tubular two-lipped flowers springing from the leaf axils and a spike of small flowers at the top; the stem is cut square at the foot. Dark brown-black etched line with the cream paper kept as an opaque fill inside the outlines; the ground outside the plant is transparent."
+type: illustration
+categories:
+  - floral
+  - botanical
+subjects:
+  - flower
+  - leaf
+  - stem
+  - plant
+colors:
+  - black
+  - brown
+  - cream
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 53-600-261-2
+render:
+  image: {}
+display_width:
+  - 300
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: "The stem is cut square at the foot, as on the plate."
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with a Row of Flowers Above a Frieze with a Battle Scene in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"
+  object_identifier: 53.600.261(2)
+  date: "1645"
+  artist: Nicolas Cochin
+  record_url: https://www.metmuseum.org/art/collection/search/425800
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP837397.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 7e84d06fe2968e5077a17f0b06051403374fbfab0ae1ee560d490284d78b7a23
+license: null
+
+

@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: small-left-tulip-with-bent-leaf
+title: Small tulip on a slanting stem with a bent leaf
+description: "A small tulip with pointed petals on a stem that slants up to the left, with one long leaf beside the stem and a second leaf bent sharply over near the foot. Dark brown-black etched line with the cream paper kept as an opaque fill inside the outlines; the ground outside the plant is transparent."
+type: illustration
+categories:
+  - floral
+  - botanical
+subjects:
+  - tulip
+  - flower
+  - leaf
+  - stem
+colors:
+  - black
+  - brown
+  - cream
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 53-600-261-8
+render:
+  image: {}
+display_width:
+  - 150
+  - 350
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with a Row of Flowers Above a Frieze with a Hunting Scene in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"
+  object_identifier: 53.600.261(8)
+  date: "1645"
+  artist: Nicolas Cochin
+  record_url: https://www.metmuseum.org/art/collection/search/425840
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP837393.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 335b935dc37892bed426447ae3c3756b8a1b8a94b36d6e6545ef7c866b2dccae
+license: null
+
+

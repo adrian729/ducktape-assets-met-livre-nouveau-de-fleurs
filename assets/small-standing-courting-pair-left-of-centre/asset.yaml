@@ -1,0 +1,49 @@
+# descriptive: find it and understand it
+id: small-standing-courting-pair-left-of-centre
+title: Standing courting pair, man gesturing right
+description: A woman at the left in a long gown, turned to the right, stands beside a man in a plumed hat, doublet and breeches who faces the viewer and points away to the right with his outstretched arm. Dark brown etched ink on a transparent background.
+type: illustration
+categories:
+  - humans
+subjects:
+  - lover
+  - woman
+  - man
+  - hat
+  - plume
+  - robe
+colors:
+  - brown
+  - black
+facing: mixed
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 53-600-261-5
+render:
+  image: {}
+related:
+  - { asset: met-livre-nouveau-de-fleurs/courting-landscape-with-flock-and-town, role: variant }
+display_width:
+  - 75
+  - 150
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Tiny crop of the frieze, about 218 px tall at native size; the ink is soft-edged and grainy and blurs when enlarged.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"
+  object_identifier: 53.600.261(5)
+  date: "1645"
+  artist: Nicolas Cochin
+  record_url: https://www.metmuseum.org/art/collection/search/425823
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP837396.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 9f4afcf3269955d64878e31d9dc1e52262f4464443d9326bd49ea9db1193b199
+license: null

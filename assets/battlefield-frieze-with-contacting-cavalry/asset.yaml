@@ -1,0 +1,56 @@
+# descriptive: find it and understand it
+id: battlefield-frieze-with-contacting-cavalry
+title: Battle frieze with charging cavalry
+description: "A wide etched landscape band of a battle. At the right a mass of cavalry charges to the left under raised lances and pennants, horses rearing over fallen men; at the left scattered foot soldiers and skirmishing riders fight across open ground; clouds of gun smoke drift above both halves and a tree closes each end. Dark brown-black ink with the cream paper kept as an opaque fill inside the figures and the ground; the sky and everything outside the drawn edge are transparent."
+type: illustration
+categories:
+  - humans
+  - animals
+subjects:
+  - battle
+  - soldier
+  - rider
+  - horse
+  - weapon
+  - pennant
+  - smoke
+  - landscape
+  - tree
+colors:
+  - black
+  - brown
+  - cream
+facing: mixed
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 53-600-261-2
+render:
+  image: {}
+usage_notes:
+  - Use once as a horizontal header or footer band; both ends are closed by a tree and it does not repeat.
+display_width:
+  - 800
+  - 1600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: "Cut by the plate edge at the left, where the tree stops in a straight line; a small rectangular gap in the ground at the lower right is where a neighbouring mark was removed."
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with a Row of Flowers Above a Frieze with a Battle Scene in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"
+  object_identifier: 53.600.261(2)
+  date: "1645"
+  artist: Nicolas Cochin
+  record_url: https://www.metmuseum.org/art/collection/search/425800
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP837397.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 7e84d06fe2968e5077a17f0b06051403374fbfab0ae1ee560d490284d78b7a23
+license: null
+
+

@@ -1,0 +1,56 @@
+# descriptive: find it and understand it
+id: leaping-antlered-stag-with-contacting-hound
+title: Leaping stag with a hound at its heels
+description: "An antlered stag leaps to the left with its forelegs tucked and its hind legs stretched out behind; beneath the hind legs a hound runs left with its head raised toward the stag's belly and its tail curled up. Cut from the stag hunt frieze. Dark brown-black etched line, cream paper kept as an opaque fill inside the outline, transparent ground."
+type: illustration
+categories:
+  - animals
+subjects:
+  - stag
+  - antler
+  - dog
+colors:
+  - black
+  - brown
+  - cream
+facing: left
+view: side
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 53-600-261-8
+render:
+  image: {}
+related:
+  - { asset: met-livre-nouveau-de-fleurs/stag-hunt-with-three-mounted-hunters, role: variant }
+  - { asset: met-livre-nouveau-de-fleurs/foreground-mounted-hunter-with-raised-arm, role: companion }
+  - { asset: met-livre-nouveau-de-fleurs/left-mounted-hunter-on-running-horse, role: companion }
+  - { asset: met-livre-nouveau-de-fleurs/small-middle-mounted-hunter, role: companion }
+  - { asset: met-livre-nouveau-de-fleurs/left-running-hound, role: companion }
+  - { asset: met-livre-nouveau-de-fleurs/middle-running-hound, role: companion }
+  - { asset: met-livre-nouveau-de-fleurs/right-low-running-hound, role: companion }
+display_width:
+  - 110
+  - 210
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: "The hound's paws and the stag's rear hoof are clipped by the bottom and right edges of the canvas; small in the source, so the line is soft when enlarged."
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with a Row of Flowers Above a Frieze with a Hunting Scene in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"
+  object_identifier: 53.600.261(8)
+  date: "1645"
+  artist: Nicolas Cochin
+  record_url: https://www.metmuseum.org/art/collection/search/425840
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP837393.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 335b935dc37892bed426447ae3c3756b8a1b8a94b36d6e6545ef7c866b2dccae
+license: null
+
+

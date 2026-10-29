@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: left-tree-and-connected-foliage-cluster
+title: Tree with hanging foliage over a hatched bank
+description: "A tall vertical crop from the left end of the frieze: a tree trunk at the upper left with sprays of foliage hanging to the right, above a steep bank of diagonal hatching; at the foot of the bank a small animal lies with its head raised. Dark brown etched ink on a transparent background."
+type: illustration
+categories:
+  - botanical
+subjects:
+  - tree
+  - leaf
+  - grass
+  - dog
+colors:
+  - brown
+  - black
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 53-600-261-5
+render:
+  image: {}
+related:
+  - { asset: met-livre-nouveau-de-fleurs/small-reclining-curled-tailed-animal, role: variant }
+  - { asset: met-livre-nouveau-de-fleurs/courting-landscape-with-flock-and-town, role: variant }
+usage_notes:
+  - The reclining animal at the foot is also published alone as small-reclining-curled-tailed-animal.
+display_width:
+  - 120
+  - 230
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The tree crown is cut by the plate edge along the top and left.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"
+  object_identifier: 53.600.261(5)
+  date: "1645"
+  artist: Nicolas Cochin
+  record_url: https://www.metmuseum.org/art/collection/search/425823
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP837396.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 9f4afcf3269955d64878e31d9dc1e52262f4464443d9326bd49ea9db1193b199
+license: null

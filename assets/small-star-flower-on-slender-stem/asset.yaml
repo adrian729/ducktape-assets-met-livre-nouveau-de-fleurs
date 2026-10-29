@@ -1,0 +1,49 @@
+# descriptive: find it and understand it
+id: small-star-flower-on-slender-stem
+title: Small star flower on a slender stem
+description: "A small star-shaped flower seen from the front at the top of a long slender stem with one joint, and one folded leaf rising on the right from a sheath near the foot. Dark gray-brown ink only: the paper between the strokes is transparent, so the piece is open line work rather than a filled cutout, with a softer edge than the rest of the plate."
+type: illustration
+categories:
+  - floral
+  - botanical
+subjects:
+  - flower
+  - leaf
+  - stem
+colors:
+  - black
+  - gray
+  - brown
+facing: viewer
+view: front
+composition: standalone
+
+# structural: how it is organised and related
+group: 53-600-261-2
+render:
+  image: {}
+display_width:
+  - 150
+  - 290
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: "Extracted as ink only at source size: the line is softer and grayer than the other pieces of the plate, and the top petal touches the top edge of the canvas."
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with a Row of Flowers Above a Frieze with a Battle Scene in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"
+  object_identifier: 53.600.261(2)
+  date: "1645"
+  artist: Nicolas Cochin
+  record_url: https://www.metmuseum.org/art/collection/search/425800
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP837397.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 7e84d06fe2968e5077a17f0b06051403374fbfab0ae1ee560d490284d78b7a23
+license: null
+
+

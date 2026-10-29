@@ -1,0 +1,45 @@
+# descriptive: find it and understand it
+id: large-double-bloom-on-curved-stem
+title: Large double bloom on a curving stem
+description: A large double flower head with many ruffled, overlapping petals, turned to the left at the top; the stem arches down to the right, carrying a pair of narrow lance-shaped leaves halfway down and a whorl of deeply lobed leaves at the base. Fine etched hatching; dark brown ink on a transparent background.
+type: illustration
+categories:
+  - floral
+  - botanical
+subjects:
+  - flower
+  - leaf
+  - stem
+colors:
+  - brown
+  - black
+facing: left
+composition: standalone
+
+# structural: how it is organised and related
+group: 53-600-261-5
+render:
+  image: {}
+display_width:
+  - 300
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The stem is cut at the lower edge, with a short fragment of the neighbouring ground line left beside it.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"
+  object_identifier: 53.600.261(5)
+  date: "1645"
+  artist: Nicolas Cochin
+  record_url: https://www.metmuseum.org/art/collection/search/425823
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP837396.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 9f4afcf3269955d64878e31d9dc1e52262f4464443d9326bd49ea9db1193b199
+license: null
