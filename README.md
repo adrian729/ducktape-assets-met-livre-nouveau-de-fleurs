@@ -3,7 +3,7 @@
 
 Roses, rosebuds, clustered flowers and the landscape friezes with courting pairs, flocks, hunters and battles from three plates of Nicolas Cochin's "Livre Nouveau de Fleurs Tres-Util" (1645) in the Metropolitan Museum of Art, grouped by plate.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `met-livre-nouveau-de-fleurs`, historical, 46 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `met-livre-nouveau-de-fleurs`, historical, 46 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `met-livre-nouveau-de-fleurs/battlefield-frieze-with-contacting-cavalry`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-met-livre-nouveau-de-fleurs@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-met-livre-nouveau-de-fleurs@1.0.0/webp/battlefield-frieze-with-contacting-cavalry-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-met-livre-nouveau-de-fleurs`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-met-livre-nouveau-de-fleurs-masters`; never put a master on a page.
